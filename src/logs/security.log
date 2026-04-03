@@ -1,0 +1,234 @@
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:17:28","type":"auth","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:17:29","type":"auth","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:19:15","type":"auth","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:20:03","type":"auth","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:21:00","type":"auth","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:21:10","type":"auth","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:21:16","type":"auth","url":"/alumni-portal/login"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:28:45"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"123456\" fails to match the uppercase pattern","service":"alumni-portal","timestamp":"2025-12-07 14:28:45"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"123456\" fails to match the lowercase pattern","service":"alumni-portal","timestamp":"2025-12-07 14:28:45"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"123456\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:28:45"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 14:28:45"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:29:09"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Mlaka\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:29:09"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Mlaka\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:29:09"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 14:29:09"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:29:26","type":"auth","url":"/alumni-portal/register"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:30:19","type":"auth","url":"/alumni-portal/register"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:30:25","type":"auth","url":"/alumni-portal/register"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:30:52","type":"auth","url":"/alumni-portal/register"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:32:05"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Mlaka\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:32:05"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Mlaka\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:32:05"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:33:52"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:33:52"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:33:52"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:36:10"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:36:10"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:36:10"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:36:13"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:36:13"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:36:13"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 14:37:26"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 14:38:29"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:39:35"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:39:35"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:39:35"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 14:41:01"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 14:41:01"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"Malak\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 14:41:01"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:41:26","type":"auth","url":"/alumni-portal/register"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 14:41:38","type":"auth","url":"/alumni-portal/register"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 14:42:16"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 14:42:29"}
+{"ip":"validation","level":"error","message":"SQL injection attempt detected","query":"select * from \"User\"","service":"alumni-portal","timestamp":"2025-12-07 14:55:17"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 14:55:17"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" contains potential SQL injection","service":"alumni-portal","timestamp":"2025-12-07 14:55:17"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 14:55:51"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:00:43"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:00:48"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:00:53"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 15:01:50","type":"auth","url":"/alumni-portal/login"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:04:21"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:05:39"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:13:38"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"::1","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:21:06"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"::1","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:21:06"}
+{"ip":"validation","level":"error","message":"SQL injection attempt detected","query":"&lt;script&gt;alert(1)&lt;/script&gt;","service":"alumni-portal","timestamp":"2025-12-07 15:21:06"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"validation","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:21:06"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" contains potential SQL injection","service":"alumni-portal","timestamp":"2025-12-07 15:21:06"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" contains potential XSS attack","service":"alumni-portal","timestamp":"2025-12-07 15:21:06"}
+{"ip":"validation","level":"error","message":"SQL injection attempt detected","query":"select * from \"User\"","service":"alumni-portal","timestamp":"2025-12-07 15:23:14"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" contains potential SQL injection","service":"alumni-portal","timestamp":"2025-12-07 15:23:14"}
+{"ip":"validation","level":"error","message":"SQL injection attempt detected","query":"select * from \"User\"","service":"alumni-portal","timestamp":"2025-12-07 15:25:40"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" contains potential SQL injection","service":"alumni-portal","timestamp":"2025-12-07 15:25:40"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"::1","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"::1","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"ip":"validation","level":"error","message":"SQL injection attempt detected","query":"&lt;script&gt;alert(1)&lt;/script&gt;","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"validation","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" must be a valid email","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" contains potential SQL injection","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"email":"ema***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"email\" contains potential XSS attack","service":"alumni-portal","timestamp":"2025-12-07 15:26:07"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"::1","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"::1","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"ip":"validation","level":"error","message":"SQL injection attempt detected","query":"&lt;script&gt;alert(1)&lt;/script&gt;","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"input":"&lt;script&gt;alert(1)&lt;/script&gt;","ip":"validation","level":"error","message":"XSS attempt detected","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" contains potential SQL injection","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" contains potential XSS attack","service":"alumni-portal","timestamp":"2025-12-07 15:29:01"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 15:39:42","type":"auth","url":"/alumni-portal/login"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" length must be at least 8 characters long","service":"alumni-portal","timestamp":"2025-12-07 15:41:31"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"malak\" fails to match the uppercase pattern","service":"alumni-portal","timestamp":"2025-12-07 15:41:32"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"malak\" fails to match the number pattern","service":"alumni-portal","timestamp":"2025-12-07 15:41:32"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"malak\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 15:41:32"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"malak123\" fails to match the uppercase pattern","service":"alumni-portal","timestamp":"2025-12-07 15:42:31"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"malak123\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 15:42:31"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"admin123\" fails to match the uppercase pattern","service":"alumni-portal","timestamp":"2025-12-07 15:43:37"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"admin123\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 15:43:37"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" is too weak or contains sequential characters","service":"alumni-portal","timestamp":"2025-12-07 15:43:37"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"admin123\" fails to match the uppercase pattern","service":"alumni-portal","timestamp":"2025-12-07 15:43:56"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"admin123\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 15:43:56"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" is too weak or contains sequential characters","service":"alumni-portal","timestamp":"2025-12-07 15:43:56"}
+{"email":"nat***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"nationalId\" must be a valid Egyptian national ID","service":"alumni-portal","timestamp":"2025-12-07 15:43:56"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - Auth","service":"alumni-portal","timestamp":"2025-12-07 15:44:08","type":"auth","url":"/alumni-portal/register"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"admin123\" fails to match the uppercase pattern","service":"alumni-portal","timestamp":"2025-12-07 15:44:32"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" with value \"admin123\" fails to match the symbol pattern","service":"alumni-portal","timestamp":"2025-12-07 15:44:32"}
+{"email":"pas***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"\"password\" is too weak or contains sequential characters","service":"alumni-portal","timestamp":"2025-12-07 15:44:32"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:25","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:25","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:25","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:28","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:42","type":"general","url":"/alumni-portal/graduates/2/profile"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:42","type":"general","url":"/alumni-portal/graduates/2/profile"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:44","type":"general","url":"/alumni-portal/posts/my-graduate-posts"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:03:44","type":"general","url":"/alumni-portal/posts/my-graduate-posts"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:09","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:09","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:09","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:09","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:13","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:13","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:13","type":"general","url":"/alumni-portal/invitations/auto/status"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:13","type":"general","url":"/alumni-portal/posts/user-posts?page=1&limit=10"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:17","type":"general","url":"/alumni-portal/logout"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:19","type":"general","url":"/alumni-portal/login"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-07 16:07:25","type":"general","url":"/alumni-portal/login"}
+{"graduateId":"63","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-07 22:41:48"}
+{"graduateId":"63","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-07 22:41:48"}
+{"error":"Validation error","level":"error","message":"Google callback error","service":"alumni-portal","timestamp":"2025-12-07 23:45:33"}
+{"error":"Validation error","level":"error","message":"Google Strategy Error","service":"alumni-portal","timestamp":"2025-12-07 23:45:43"}
+{"error":"Validation error","level":"error","message":"Google Strategy Error","service":"alumni-portal","timestamp":"2025-12-07 23:46:00"}
+{"error":"Validation error","level":"error","message":"Google Strategy Error","service":"alumni-portal","timestamp":"2025-12-07 23:50:04"}
+{"ip":"::1","level":"warn","message":"Invalid National ID submitted before Google redirect","nationalId":"33999998878","service":"alumni-portal","timestamp":"2025-12-07 23:53:34"}
+{"error":"Validation error","level":"error","message":"Google Strategy Error","service":"alumni-portal","timestamp":"2025-12-07 23:53:57"}
+{"error":"aes.encrypt is not a function","level":"error","message":"Google Strategy Error","service":"alumni-portal","stack":"TypeError: aes.encrypt is not a function\n    at Strategy._verify (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\controllers\\googleAuth.controller.js:51:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-07 23:55:52"}
+{"email":"aishafathy647@gmail.com","errors":["google_id must be unique"],"level":"error","message":"Validation error creating new Google user","service":"alumni-portal","timestamp":"2025-12-07 23:56:56"}
+{"email":"aishafathy647@gmail.com","errors":["google_id must be unique"],"level":"error","message":"Validation error creating new Google user","service":"alumni-portal","timestamp":"2025-12-07 23:57:51"}
+{"email":"ais***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"Invalid or missing National ID","service":"alumni-portal","timestamp":"2025-12-08 00:02:30"}
+{"email":"ais***","ip":"::1","level":"warn","message":"Failed login attempt","reason":"Invalid or missing National ID","service":"alumni-portal","timestamp":"2025-12-08 00:08:15"}
+{"error":"Request failed with status code 404","level":"warn","message":"Staff API error or not found","service":"alumni-portal","timestamp":"2025-12-08 00:23:09"}
+{"error":"Request failed with status code 404","level":"warn","message":"Graduate API error or not found","service":"alumni-portal","timestamp":"2025-12-08 00:23:09"}
+{"error":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","level":"error","message":"Error creating new user","service":"alumni-portal","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at Cipheriv.update (node:internal/crypto/cipher:168:11)\n    at Object.encryptNationalId (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\utils\\aes.js:42:26)\n    at exports.googleCallback (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\controllers\\googleAuth.controller.js:171:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-08 00:23:09"}
+{"error":"Request failed with status code 404","level":"warn","message":"Staff API error or not found","service":"alumni-portal","timestamp":"2025-12-08 00:24:16"}
+{"error":"Request failed with status code 404","level":"warn","message":"Graduate API error or not found","service":"alumni-portal","timestamp":"2025-12-08 00:24:16"}
+{"error":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","level":"error","message":"Error creating new user","service":"alumni-portal","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at Cipheriv.update (node:internal/crypto/cipher:168:11)\n    at Object.encryptNationalId (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\utils\\aes.js:42:26)\n    at exports.googleCallback (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\controllers\\googleAuth.controller.js:171:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-08 00:24:16"}
+{"error":"Request failed with status code 404","level":"warn","message":"Staff API error or not found","service":"alumni-portal","timestamp":"2025-12-08 00:27:57"}
+{"error":"Request failed with status code 404","level":"warn","message":"Graduate API error or not found","service":"alumni-portal","timestamp":"2025-12-08 00:27:57"}
+{"error":"The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined","level":"error","message":"Error creating new user","service":"alumni-portal","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined\n    at Cipheriv.update (node:internal/crypto/cipher:168:11)\n    at Object.encryptNationalId (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\utils\\aes.js:42:26)\n    at exports.googleCallback (E:\\GP2026\\Development\\Alumni-Portal-project-GP\\Backend-Alumni\\src\\controllers\\googleAuth.controller.js:171:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-08 00:27:57"}
+{"googleEmail":"aishafathy647@gmail.com","level":"warn","message":"No National ID passed in state","service":"alumni-portal","timestamp":"2025-12-08 00:31:37"}
+{"err":{"code":"invalid_grant","message":"Bad Request","name":"TokenError","status":500},"level":"warn","message":"Google authentication failed","service":"alumni-portal","timestamp":"2025-12-08 00:35:12"}
+{"err":{"code":"invalid_grant","message":"Bad Request","name":"TokenError","status":500},"level":"warn","message":"Google authentication failed","service":"alumni-portal","timestamp":"2025-12-08 00:42:09"}
+{"error":"Validation error","level":"error","message":"googleCallback error","service":"alumni-portal","timestamp":"2025-12-08 01:08:33"}
+{"error":"Validation error","level":"error","message":"googleCallback error","service":"alumni-portal","timestamp":"2025-12-08 01:10:52"}
+{"error":"Validation error","level":"error","message":"googleCallback error","service":"alumni-portal","timestamp":"2025-12-08 01:11:29"}
+{"error":"Validation error","level":"error","message":"googleCallback error","service":"alumni-portal","timestamp":"2025-12-08 01:13:33"}
+{"graduateId":"70","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-08 01:24:15"}
+{"graduateId":"70","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-08 01:24:15"}
+{"graduateId":"2","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-08 01:35:38"}
+{"graduateId":"2","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-08 01:35:38"}
+{"graduateId":"2","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-08 01:36:19"}
+{"graduateId":"2","ip":"::1","level":"warn","message":"Graduate not found for profile","service":"alumni-portal","timestamp":"2025-12-08 01:36:19"}
+{"code":"ECONNREFUSED","error":"Error","level":"error","message":"External API connection refused","service":"alumni-portal","timestamp":"2025-12-14 01:25:45"}
+{"error":"External API is not running. Please start the external API service on port 5001","errorCode":"CONNECTION_REFUSED","ip":"::1","level":"error","message":"External API failed for digital ID","service":"alumni-portal","timestamp":"2025-12-14 01:25:45","userId":2}
+{"code":"ECONNREFUSED","error":"Error","level":"error","message":"External API connection refused","service":"alumni-portal","timestamp":"2025-12-14 01:25:45"}
+{"error":"External API is not running. Please start the external API service on port 5001","errorCode":"CONNECTION_REFUSED","ip":"::1","level":"error","message":"External API failed for digital ID","service":"alumni-portal","timestamp":"2025-12-14 01:25:45","userId":2}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:31:46","type":"general","url":"/alumni-portal/faqs"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:31:46","type":"general","url":"/alumni-portal/faqs"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:31:46","type":"general","url":"/alumni-portal/posts/landing"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:39:57","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:39:57","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:39:57","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:39:58","type":"general","url":"/alumni-portal/reports-stats"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:39:58","type":"general","url":"/alumni-portal/reports-stats"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:02","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:02","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:02","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:02","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:02","type":"general","url":"/alumni-portal/reports-stats"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:02","type":"general","url":"/alumni-portal/reports-stats"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:04","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:04","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:04","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:04","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:06","type":"general","url":"/alumni-portal/university-services"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:06","type":"general","url":"/alumni-portal/university-services"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:06","type":"general","url":"/alumni-portal/feedbacks"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:06","type":"general","url":"/alumni-portal/feedbacks"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:12","type":"general","url":"/alumni-portal/reports-stats"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:12","type":"general","url":"/alumni-portal/reports-stats"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:14","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:14","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:14","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:14","type":"general","url":"/alumni-portal/groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:15","type":"general","url":"/alumni-portal/feedbacks"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:15","type":"general","url":"/alumni-portal/feedbacks"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:16","type":"general","url":"/alumni-portal/graduates/approved"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:16","type":"general","url":"/alumni-portal/graduates/approved"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:16","type":"general","url":"/alumni-portal/graduates/approved"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:17","type":"general","url":"/alumni-portal/graduates/requested"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:17","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:17","type":"general","url":"/alumni-portal/graduates/requested"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:17","type":"general","url":"/alumni-portal/faculties"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:40:17","type":"general","url":"/alumni-portal/graduates/requested"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:03","type":"general","url":"/alumni-portal/friendships/friends"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:03","type":"general","url":"/alumni-portal/friendships/requests"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:03","type":"general","url":"/alumni-portal/friendships/suggestions"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:16","type":"general","url":"/alumni-portal/friendships/request/2"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:18","type":"general","url":"/alumni-portal/graduates/profile/2"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:18","type":"general","url":"/alumni-portal/graduates/profile/2"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:24","type":"general","url":"/alumni-portal/groups/sorted-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:24","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:24","type":"general","url":"/alumni-portal/groups/sorted-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:24","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:24","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:24","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:26","type":"general","url":"/alumni-portal/groups/sorted-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:26","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:26","type":"general","url":"/alumni-portal/groups/sorted-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:26","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:28","type":"general","url":"/alumni-portal/friendships/friends"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:28","type":"general","url":"/alumni-portal/friendships/requests"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:28","type":"general","url":"/alumni-portal/friendships/suggestions"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:28","type":"general","url":"/alumni-portal/friendships/friends"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:28","type":"general","url":"/alumni-portal/friendships/requests"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:42:28","type":"general","url":"/alumni-portal/friendships/suggestions"}
+{"code":"ECONNREFUSED","error":"Error","level":"error","message":"External API connection refused","service":"alumni-portal","timestamp":"2025-12-14 01:43:40"}
+{"error":"External API is not running. Please start the external API service on port 5001","errorCode":"CONNECTION_REFUSED","ip":"::1","level":"error","message":"External API failed for digital ID","service":"alumni-portal","timestamp":"2025-12-14 01:43:40","userId":2}
+{"code":"ECONNREFUSED","error":"Error","level":"error","message":"External API connection refused","service":"alumni-portal","timestamp":"2025-12-14 01:43:40"}
+{"error":"External API is not running. Please start the external API service on port 5001","errorCode":"CONNECTION_REFUSED","ip":"::1","level":"error","message":"External API failed for digital ID","service":"alumni-portal","timestamp":"2025-12-14 01:43:40","userId":2}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:41","type":"general","url":"/alumni-portal/friendships/suggestions"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:41","type":"general","url":"/alumni-portal/friendships/suggestions"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:41","type":"general","url":"/alumni-portal/friendships/friends"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:41","type":"general","url":"/alumni-portal/friendships/requests"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:46","type":"general","url":"/alumni-portal/groups/sorted-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:46","type":"general","url":"/alumni-portal/groups/my-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:46","type":"general","url":"/alumni-portal/groups/sorted-groups"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded - General","service":"alumni-portal","timestamp":"2025-12-14 01:43:46","type":"general","url":"/alumni-portal/groups/my-groups"}
