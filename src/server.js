@@ -6,9 +6,9 @@ const bcrypt = require('bcryptjs');
 const sequelize = require("./config/db");
 
 // استدعاء الراوتس
-const authRoutes = require("./routes/auth.routes");
-const adminRoutes = require("./routes/admin.routes");
-const clinicRoutes = require("./routes/clinic.routes");
+const authRoutes = require("./routes/auth.routes.js");
+const adminRoutes = require("./routes/admin.routes.js");
+const clinicRoutes = require("./routes/clinic.routes.js");
 
 // استدعاء المودلز
 const { User } = require("./models");
