@@ -2,58 +2,79 @@
 require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
-const bcrypt = require('bcryptjs'); 
+const bcrypt = require("bcryptjs");
 const sequelize = require("./config/db");
 
-// استدعاء الراوتس
+// Routes
 const authRoutes = require("./routes/auth.routes.js");
 const adminRoutes = require("./routes/admin.routes.js");
 const clinicRoutes = require("./routes/clinic.routes.js");
 
-// استدعاء المودلز
+// Models
 const { User } = require("./models");
 
 const app = express();
+
 app.use(express.json());
+
 app.use(cors({
-    origin: process.env.FRONTEND_URL
+    origin: process.env.FRONTEND_URL || "*"
 }));
+
+// Test route (مهم جدًا للـ deployment)
+app.get("/", (req, res) => {
+    res.send("Clinic API is running 🚀");
+});
 
 // Routes
 app.use("/clinic/auth", authRoutes);
 app.use("/clinic/admin", adminRoutes);
 app.use("/clinic", clinicRoutes);
 
-// Test route
-app.get("/", (req, res) => res.send("Clinic API is running"));
+const PORT = process.env.PORT || 3000;
 
-const PORT = process.env.PORT || 5000;
-
-(async () => {
+// 🔥 تشغيل السيرفر حتى لو DB وقع (مهم جدًا في production)
+const startServer = async () => {
     try {
-        await sequelize.authenticate();
-        console.log("Database connected successfully");
+        console.log("Starting server...");
 
-        await sequelize.sync();
-        console.log("Database synchronized");
+        // محاولة الاتصال بالداتابيز
+        if (sequelize) {
+            await sequelize.authenticate();
+            console.log("Database connected successfully");
 
-        // ===== إضافة Super Admin إذا مش موجود =====
-        const exists = await User.findOne({ where: { role: 'ADMIN' } });
-        if (!exists) {
-            await User.create({
-                name: 'Super Admin',
-                email: 'malakmhemdan@gmail.com',
-                password: await bcrypt.hash('clinicmanage123#', 10),
-                role: 'ADMIN',
-                isActive: true
-            });
-            console.log("Super Admin created successfully");
-        } else {
-            console.log("Super Admin already exists");
+            await sequelize.sync();
+            console.log("Database synchronized");
+
+            // Super Admin
+            const exists = await User.findOne({ where: { role: 'ADMIN' } });
+
+            if (!exists) {
+                await User.create({
+                    name: 'Super Admin',
+                    email: 'admin@clinic.com',
+                    password: await bcrypt.hash('admin123', 10),
+                    role: 'ADMIN',
+                    isActive: true
+                });
+
+                console.log("Super Admin created successfully");
+            }
         }
 
-        app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+        // تشغيل السيرفر مهما حصل في DB
+        app.listen(PORT, () => {
+            console.log(`Server running on port ${PORT}`);
+        });
+
     } catch (err) {
-        console.error("Error starting server:", err);
+        console.error("DB Error (server still running):", err);
+
+        // 🔥 مهم: السيرفر يفضل شغال حتى لو DB وقع
+        app.listen(PORT, () => {
+            console.log(`Server running WITHOUT DB on port ${PORT}`);
+        });
     }
-})();
+};
+
+startServer();
