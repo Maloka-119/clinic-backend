@@ -1,7 +1,7 @@
 const router = require('express').Router();
-const controller = require('../controllers/admin.controller');
-const auth = require('../middleware/auth.middleware');
-const role = require('../middleware/role.middleware');
+const controller = require('../controllers/admin.controller.js');
+const auth = require('../middleware/auth.middleware.js');
+const role = require('../middleware/role.middleware.js');
 
 router.post('/clinic', auth, role('ADMIN'), controller.createClinic);
 router.post('/activate-owner', auth, role('ADMIN'), controller.activateOwner);

@@ -1,13 +1,13 @@
 const router = require('express').Router();
-const auth = require('../middleware/auth.middleware');
-const role = require('../middleware/role.middleware');
+const auth = require('../middleware/auth.middleware.js');
+const role = require('../middleware/role.middleware.js');
 
-const clinicController = require('../controllers/clinic.controller');
-const branchController = require('../controllers/branch.controller');
-const employeeController = require('../controllers/employee.controller');
-const patientController = require('../controllers/patient.controller');
-const visitController = require('../controllers/visit.controller');
-const previousDeliveryController = require('../controllers/previousDelivery.controller');
+const clinicController = require('../controllers/clinic.controller.js');
+const branchController = require('../controllers/branch.controller.js');
+const employeeController = require('../controllers/employee.controller.js');
+const patientController = require('../controllers/patient.controller.js');
+const visitController = require('../controllers/visit.controller.js');
+const previousDeliveryController = require('../controllers/previousDelivery.controller.js');
 
 // Clinics (Admin only for create/toggle; list can be for auth users)
 router.post('/clinics', auth, role('ADMIN'), clinicController.createClinic);
