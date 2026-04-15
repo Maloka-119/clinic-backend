@@ -52,8 +52,8 @@ const startServer = async () => {
             if (!exists) {
                 await User.create({
                     name: 'Super Admin',
-                    email: 'admin@clinic.com',
-                    password: await bcrypt.hash('admin123', 10),
+                    email: 'malakmhemdan@gmail.com',
+                    password: await bcrypt.hash('femina123', 10),
                     role: 'ADMIN',
                     isActive: true
                 });
